@@ -1,0 +1,5 @@
+-Tải file về chạy trên máy 
+-Chọn select Jetbrains app
+-Chọn app cần active
+-Nhấn active
+-Copy code sau đó vô app cần active dán vào phần active code
